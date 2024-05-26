@@ -1,5 +1,4 @@
 
-Chắc chắn rồi! Dưới đây là giải thích về các khái niệm "matches" và "Lowe's Ratio Test" trong ngữ cảnh của việc so khớp đặc trưng hình ảnh trong xử lý ảnh số.
 
 Matches
 Trong xử lý ảnh, đặc biệt là khi sử dụng các thuật toán phát hiện và mô tả đặc trưng (như SIFT, SURF, ORB), "matches" (sự khớp) là các cặp điểm đặc trưng tương ứng giữa hai hình ảnh mà chúng ta tin rằng chúng thể hiện cùng một điểm trong không gian thực.
